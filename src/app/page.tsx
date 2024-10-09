@@ -3,7 +3,6 @@ import Navbar from "./Navbar/page";
 export default function Home() {
   return (
     <div>
-      <Navbar />
 
       <h1 className="text-center text-2xl my-5">NestJS Application</h1>
       <p className="text-center">
