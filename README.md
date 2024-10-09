@@ -7,7 +7,7 @@ https://teammanager.kesug.com/nevigation-between-pages/
 
 
 # Only &lt;Navbar&gt; component is changed
-<link> tag is used navbar component is instead of <a>
-If we used <a> during shifting the page, then page will be reloaded. 
+&lt;link&gt; tag is used navbar component is instead of &lt;a&gt;
+If we used &lt;a&gt; during shifting the page, then page will be reloaded. 
 The page should not be reloading because we are doing component-rendering.
-If you want to use <a> along with <Link>, then use keyword as "legacyBehavior"
+If you want to use &lt;a&gt; along with &lt;Link&gt;, then use keyword as "legacyBehavior"
