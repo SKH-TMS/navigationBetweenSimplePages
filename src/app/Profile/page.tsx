@@ -1,4 +1,4 @@
-import Navbar from "../Navbar/page";
+
 export default function Profile() {
   return (
     <div>
